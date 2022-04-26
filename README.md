@@ -1,5 +1,5 @@
 # CricTrick
-Learn everything about cricket, all in one android application. 
+Learn everything about cricket, all in one android application.
 
 This application will teach you whatever you need to know to start following and playing the game of cricket. It includes details about:
 - Batting
@@ -8,6 +8,15 @@ This application will teach you whatever you need to know to start following and
 - Types of matches
 - Field positions
 - Tournaments.
+
+# How to install CricTrick android application on your mobile:
+1. Download apk file from repository.
+2. Connect your phone and laptop through a USB cable.
+3. Move the apk file to your phone's downloads folder.
+4. Enable the option "Install applications from unkown sources".
+5. Now, open the Files app in your phone and navigate to the downloads folder.
+6. Install the CricTrick app.
+7. Now you may unplug the USB cable and enjoy the app!
 
 Here are some screen grabs from the application:
 
